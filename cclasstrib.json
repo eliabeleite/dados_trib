@@ -1,0 +1,872 @@
+[
+  {
+    "CST-IBS/CBS": "000",
+    "Descrição CST-IBS/CBS": "Tributação integral",
+    "cClassTrib": "000001",
+    "Nome cClassTrib": "Situações tributadas integralmente pelo IBS e CBS."
+  },
+  {
+    "CST-IBS/CBS": "000",
+    "Descrição CST-IBS/CBS": "Tributação integral",
+    "cClassTrib": "000002",
+    "Nome cClassTrib": "Exploração de via"
+  },
+  {
+    "CST-IBS/CBS": "000",
+    "Descrição CST-IBS/CBS": "Tributação integral",
+    "cClassTrib": "000003",
+    "Nome cClassTrib": "Regime automotivo - projetos incentivados (art. 311)"
+  },
+  {
+    "CST-IBS/CBS": "000",
+    "Descrição CST-IBS/CBS": "Tributação integral",
+    "cClassTrib": "000004",
+    "Nome cClassTrib": "Regime automotivo - projetos incentivados (art. 312)"
+  },
+  {
+    "CST-IBS/CBS": "010",
+    "Descrição CST-IBS/CBS": "Tributação com alíquotas uniformes - operações do FGTS",
+    "cClassTrib": "010001",
+    "Nome cClassTrib": "Operações do FGTS não realizadas pela Caixa Econômica Federal"
+  },
+  {
+    "CST-IBS/CBS": "010",
+    "Descrição CST-IBS/CBS": "Tributação com alíquotas uniformes - operações setor financeiro",
+    "cClassTrib": "010002",
+    "Nome cClassTrib": "Operações do serviço financeiro"
+  },
+  {
+    "CST-IBS/CBS": "011",
+    "Descrição CST-IBS/CBS": "Tributação com alíquotas uniformes reduzidas em 60%",
+    "cClassTrib": "011001",
+    "Nome cClassTrib": "Planos de assistência funerária."
+  },
+  {
+    "CST-IBS/CBS": "011",
+    "Descrição CST-IBS/CBS": "Tributação com alíquotas uniformes reduzidas em 60%",
+    "cClassTrib": "011002",
+    "Nome cClassTrib": "Planos de assistência à saúde"
+  },
+  {
+    "CST-IBS/CBS": "011",
+    "Descrição CST-IBS/CBS": "Tributação com alíquotas uniformes reduzidas em 60%",
+    "cClassTrib": "011003",
+    "Nome cClassTrib": "Intermediação de planos de assistência à saúde"
+  },
+  {
+    "CST-IBS/CBS": "011",
+    "Descrição CST-IBS/CBS": "Tributação com alíquotas uniformes",
+    "cClassTrib": "011004",
+    "Nome cClassTrib": "Concursos e prognósticos"
+  },
+  {
+    "CST-IBS/CBS": "011",
+    "Descrição CST-IBS/CBS": "Tributação com alíquotas uniformes reduzidas em 30%",
+    "cClassTrib": "011005",
+    "Nome cClassTrib": "Planos de assistência à saúde de animais domésticos"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200001,
+    "Nome cClassTrib": "Aquisições realizadas entre empresas autorizadas a operar em zonas de processamento de exportação"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200002,
+    "Nome cClassTrib": "Fornecimento ou importação para produtor rural não contribuinte ou TAC"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200003,
+    "Nome cClassTrib": "Vendas de produtos destinados à alimentação humana (Anexo I)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200004,
+    "Nome cClassTrib": "Venda de dispositivos médicos (Anexo XII)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200005,
+    "Nome cClassTrib": "Venda de dispositivos médicos adquiridos por órgãos da administração pública (Anexo IV)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200006,
+    "Nome cClassTrib": "Situação de emergência de saúde pública reconhecida pelo Poder público (Anexo XII)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200007,
+    "Nome cClassTrib": "Fornecimento dos dispositivos de acessibilidade próprios para pessoas com deficiência (Anexo XIII)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200008,
+    "Nome cClassTrib": "Fornecimento dos dispositivos de acessibilidade próprios para pessoas com deficiência adquiridos por órgãos da administração pública (Anexo V)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200009,
+    "Nome cClassTrib": "Fornecimento de medicamentos (Anexo XIV)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200010,
+    "Nome cClassTrib": "Fornecimento dos medicamentos registrados na Anvisa, adquiridos por órgãos da administração pública"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200011,
+    "Nome cClassTrib": "Fornecimento das composições para nutrição enteral e parenteral quando adquiridas por órgãos da administração pública (Anexo VI)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200012,
+    "Nome cClassTrib": "Situação de emergência de saúde pública reconhecida pelo Poder público (Anexo XIV)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200013,
+    "Nome cClassTrib": "Fornecimento de tampões higiênicos, absorventes higiênicos internos ou externos"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200014,
+    "Nome cClassTrib": "Fornecimento dos produtos hortícolas, frutas e ovos (Anexo XV)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200015,
+    "Nome cClassTrib": "Venda de automóveis de passageiros de fabricação nacional adquiridos por motoristas profissionais ou pessoas com deficiência"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200016,
+    "Nome cClassTrib": "Prestação de serviços de pesquisa e desenvolvimento por Instituição Científica, Tecnológica e de Inovação (ICT)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200017,
+    "Nome cClassTrib": "Operações relacionadas ao FGTS"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200018,
+    "Nome cClassTrib": "Operações de resseguro e retrocessão"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200019,
+    "Nome cClassTrib": "Importador dos serviços financeiros contribuinte"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200020,
+    "Nome cClassTrib": "Operação praticada por sociedades cooperativas optantes por regime específico do IBS e CBS"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200021,
+    "Nome cClassTrib": "Serviços de transporte público coletivo de passageiros ferroviário e hidroviário"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200022,
+    "Nome cClassTrib": "Operação originada fora da ZFM que destine bem material industrializado a contribuinte estabelecido na ZFM"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200023,
+    "Nome cClassTrib": "Operação realizada por indústria incentivada que destine bem material intermediário para outra indústria incentivada na ZFM"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero",
+    "cClassTrib": 200024,
+    "Nome cClassTrib": "Operação originada fora das Áreas de Livre Comércio destinadas a contribuinte estabelecido nas Áreas de Livre Comércio"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota zero apenas CBS e reduzida em 60% para IBS",
+    "cClassTrib": 200025,
+    "Nome cClassTrib": "Fornecimento dos serviços de educação relacionados ao Programa Universidade para Todos (Prouni)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 80%",
+    "cClassTrib": 200026,
+    "Nome cClassTrib": "Locação de imóveis localizados nas zonas reabilitadas"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 70%",
+    "cClassTrib": 200027,
+    "Nome cClassTrib": "Operações de locação, cessão onerosa e arrendamento de bens imóveis"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200028,
+    "Nome cClassTrib": "Fornecimento dos serviços de educação (Anexo II)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200029,
+    "Nome cClassTrib": "Fornecimento dos serviços de saúde humana (Anexo III)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200030,
+    "Nome cClassTrib": "Venda dos dispositivos médicos (Anexo IV)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200031,
+    "Nome cClassTrib": "Fornecimento dos dispositivos de acessibilidade próprios para pessoas com deficiência (Anexo V)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200032,
+    "Nome cClassTrib": "Fornecimento dos medicamentos registrados na Anvisa ou produzidos por farmácias de manipulação, ressalvados os medicamentos sujeitos à alíquota zero"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200033,
+    "Nome cClassTrib": "Fornecimento das composições para nutrição enteral e parenteral (Anexo VI)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200034,
+    "Nome cClassTrib": "Fornecimento dos alimentos destinados ao consumo humano (Anexo VII)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200035,
+    "Nome cClassTrib": "Fornecimento dos produtos de higiene pessoal e limpeza (Anexo VIII)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200036,
+    "Nome cClassTrib": "Fornecimento de produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200037,
+    "Nome cClassTrib": "Fornecimento de serviços ambientais de conservação ou recuperação da vegetação nativa"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200038,
+    "Nome cClassTrib": "Fornecimento dos insumos agropecuários e aquícolas (Anexo IX)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200039,
+    "Nome cClassTrib": "Fornecimento dos serviços e o licenciamento ou cessão dos direitos destinados às produções nacionais artísticas (Anexo X)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200040,
+    "Nome cClassTrib": "Fornecimento de serviços de comunicação institucional à administração pública"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200041,
+    "Nome cClassTrib": "Fornecimento de serviço de educação desportiva (art. 141. I)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200042,
+    "Nome cClassTrib": "Fornecimento de serviço de educação desportiva (art. 141. II)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200043,
+    "Nome cClassTrib": "Fornecimento à administração pública dos serviços e dos bens relativos à soberania (Anexo XI)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200044,
+    "Nome cClassTrib": "Operações e prestações de serviços de segurança da informação e segurança cibernética desenvolvidos por sociedade que tenha sócio brasileiro (Anexo XI)"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 60%",
+    "cClassTrib": 200045,
+    "Nome cClassTrib": "Operações relacionadas a projetos de reabilitação urbana de zonas históricas e de áreas críticas de recuperação e reconversão urbanística"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 50%",
+    "cClassTrib": 200046,
+    "Nome cClassTrib": "Operações com bens imóveis"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 40%",
+    "cClassTrib": 200047,
+    "Nome cClassTrib": "Bares e Restaurantes"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 40%",
+    "cClassTrib": 200048,
+    "Nome cClassTrib": "Hotelaria, Parques de Diversão e Parques Temáticos"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 40%",
+    "cClassTrib": 200049,
+    "Nome cClassTrib": "Transporte coletivo de passageiros rodoviário, ferroviário e hidroviário"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 40%",
+    "cClassTrib": 200050,
+    "Nome cClassTrib": "Serviços de transporte aéreo regional coletivo de passageiros ou de carga"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 40%",
+    "cClassTrib": 200051,
+    "Nome cClassTrib": "Agências de Turismo"
+  },
+  {
+    "CST-IBS/CBS": 200,
+    "Descrição CST-IBS/CBS": "Alíquota reduzida em 30%",
+    "cClassTrib": 200052,
+    "Nome cClassTrib": "Prestação de serviços de profissões intelectuais"
+  },
+  {
+    "CST-IBS/CBS": 220,
+    "Descrição CST-IBS/CBS": "Alíquota fixa",
+    "cClassTrib": 220001,
+    "Nome cClassTrib": "Incorporação imobiliária submetida ao regime especial de tributação"
+  },
+  {
+    "CST-IBS/CBS": 220,
+    "Descrição CST-IBS/CBS": "Alíquota fixa",
+    "cClassTrib": 220002,
+    "Nome cClassTrib": "Incorporação imobiliária submetida ao regime especial de tributação"
+  },
+  {
+    "CST-IBS/CBS": 220,
+    "Descrição CST-IBS/CBS": "Alíquota fixa",
+    "cClassTrib": 220003,
+    "Nome cClassTrib": "Alienação de imóvel decorrente de parcelamento do solo"
+  },
+  {
+    "CST-IBS/CBS": 221,
+    "Descrição CST-IBS/CBS": "Alíquota fixa proporcional",
+    "cClassTrib": 221001,
+    "Nome cClassTrib": "Locação, cessão onerosa ou arrendamento de bem imóvel com alíquota sobre a receita bruta"
+  },
+  {
+    "CST-IBS/CBS": 222,
+    "Descrição CST-IBS/CBS": "Redução de Base de Cálculo",
+    "cClassTrib": 222001,
+    "Nome cClassTrib": "Transporte internacional de passageiros, caso os trechos de ida e volta sejam vendidos em conjunto"
+  },
+  {
+    "CST-IBS/CBS": 400,
+    "Descrição CST-IBS/CBS": "Isenção",
+    "cClassTrib": 400001,
+    "Nome cClassTrib": "Fornecimento de serviços de transporte público coletivo de passageiros rodoviário e metroviário"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410001,
+    "Nome cClassTrib": "Fornecimento de bonificações quando constem no documento fiscal e que não dependam de evento posterior"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410002,
+    "Nome cClassTrib": "Transferências entre estabelecimentos pertencentes ao mesmo contribuinte"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410003,
+    "Nome cClassTrib": "Doações sem contraprestação em benefício do doador"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410004,
+    "Nome cClassTrib": "Exportações de bens e serviços"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410005,
+    "Nome cClassTrib": "Fornecimentos realizados pela União, pelos Estados, pelo Distrito Federal e pelos Municípios"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410006,
+    "Nome cClassTrib": "Fornecimentos realizados por entidades religiosas e templos de qualquer culto"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410007,
+    "Nome cClassTrib": "Fornecimentos realizados por partidos políticos"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410008,
+    "Nome cClassTrib": "Fornecimentos de livros, jornais, periódicos e do papel destinado a sua impressão"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410009,
+    "Nome cClassTrib": "Fornecimentos de fonogramas e videofonogramas musicais produzidos no Brasil"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410010,
+    "Nome cClassTrib": "Fornecimentos de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410011,
+    "Nome cClassTrib": "Fornecimentos de ouro, quando definido em lei como ativo financeiro ou instrumento cambial"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410012,
+    "Nome cClassTrib": "Fornecimento de condomínio edilício não optante pelo regime regular"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410013,
+    "Nome cClassTrib": "Exportações de combustíveis"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410014,
+    "Nome cClassTrib": "Fornecimento de produtor rural não contribuinte"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410015,
+    "Nome cClassTrib": "Fornecimento por transportador autônomo não contribuinte"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410016,
+    "Nome cClassTrib": "Fornecimento ou aquisição de resíduos sólidos"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410017,
+    "Nome cClassTrib": "Aquisição de bem móvel com crédito presumido sob condição de revenda realizada"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410018,
+    "Nome cClassTrib": "Operações relacionadas aos fundos garantidores e executores de políticas públicas"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410019,
+    "Nome cClassTrib": "Exclusão da gorjeta na base de cálculo no fornecimento de alimentação"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410020,
+    "Nome cClassTrib": "Exclusão do valor de intermediação na base de cálculo no fornecimento de alimentação"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410021,
+    "Nome cClassTrib": "Contribuição de que trata o art. 149-A da Constituição Federal"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410022,
+    "Nome cClassTrib": "Consolidação da propriedade do bem pelo credor"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410023,
+    "Nome cClassTrib": "Alienação de bens móveis ou imóveis que tenham sido objeto de garantia em que o prestador da garantia não seja contribuinte"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410024,
+    "Nome cClassTrib": "Consolidação da propriedade do bem pelo grupo de consórcio"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410025,
+    "Nome cClassTrib": "Alienação de bem que tenha sido objeto de garantia em que o prestador da garantia não seja contribuinte"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410026,
+    "Nome cClassTrib": "Doação com anulação de crédito"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410027,
+    "Nome cClassTrib": "Exportação de serviço ou de bem imaterial"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410028,
+    "Nome cClassTrib": "Operações com bens imóveis realizadas por pessoas físicas não consideradas contribuintes"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410029,
+    "Nome cClassTrib": "Operações acobertadas somente pelo ICMS"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410030,
+    "Nome cClassTrib": "Estorno de crédito por perecimento, deteriorização, roubo, furto ou extravio."
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410031,
+    "Nome cClassTrib": "Fornecimento em período anterior ao início de vigência de incidências de CBS e IBS"
+  },
+  {
+    "CST-IBS/CBS": 410,
+    "Descrição CST-IBS/CBS": "Imunidade e não incidência",
+    "cClassTrib": 410999,
+    "Nome cClassTrib": "Operações não onerosas sem previsão de tributação, não especificadas anteriormente"
+  },
+  {
+    "CST-IBS/CBS": 510,
+    "Descrição CST-IBS/CBS": "Diferimento",
+    "cClassTrib": 510001,
+    "Nome cClassTrib": "Operações, sujeitas a diferimento, com energia elétrica, relativas à geração, comercialização, distribuição e transmissão"
+  },
+  {
+    "CST-IBS/CBS": 515,
+    "Descrição CST-IBS/CBS": "Diferimento com redução de alíquota",
+    "cClassTrib": 515001,
+    "Nome cClassTrib": "Operações, sujeitas a diferimento, com insumos agropecuários e aquícolas (Anexo IX)"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550001,
+    "Nome cClassTrib": "Exportações de bens materiais"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550002,
+    "Nome cClassTrib": "Regime de Trânsito"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550003,
+    "Nome cClassTrib": "Regimes de Depósito (art. 85)"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550004,
+    "Nome cClassTrib": "Regimes de Depósito (art. 87)"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550005,
+    "Nome cClassTrib": "Regimes de Depósito (art. 87, Parágrafo único)"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550006,
+    "Nome cClassTrib": "Regimes de Permanência Temporária"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550007,
+    "Nome cClassTrib": "Regimes de Aperfeiçoamento"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550008,
+    "Nome cClassTrib": "Importação de bens para o Regime de Repetro-Temporário"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550009,
+    "Nome cClassTrib": "GNL-Temporário"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550010,
+    "Nome cClassTrib": "Repetro-Permanente"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550011,
+    "Nome cClassTrib": "Repetro-Industrialização"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550012,
+    "Nome cClassTrib": "Repetro-Nacional"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550013,
+    "Nome cClassTrib": "Repetro-Entreposto"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550014,
+    "Nome cClassTrib": "Zona de Processamento de Exportação"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550015,
+    "Nome cClassTrib": "Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550016,
+    "Nome cClassTrib": "Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550017,
+    "Nome cClassTrib": "Regime Tributário para Incentivo à Atividade Econômica Naval"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550018,
+    "Nome cClassTrib": "Desoneração da aquisição de bens de capital"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550019,
+    "Nome cClassTrib": "Importação de bem material por indústria incentivada para utilização na ZFM"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550020,
+    "Nome cClassTrib": "Áreas de livre comércio"
+  },
+  {
+    "CST-IBS/CBS": 550,
+    "Descrição CST-IBS/CBS": "Suspensão",
+    "cClassTrib": 550021,
+    "Nome cClassTrib": "Industrialização destinada a exportações"
+  },
+  {
+    "CST-IBS/CBS": 620,
+    "Descrição CST-IBS/CBS": "Tributação monofásica",
+    "cClassTrib": 620001,
+    "Nome cClassTrib": "Tributação monofásica sobre combustíveis"
+  },
+  {
+    "CST-IBS/CBS": 620,
+    "Descrição CST-IBS/CBS": "Tributação monofásica",
+    "cClassTrib": 620002,
+    "Nome cClassTrib": "Tributação monofásica com responsabilidade pela retenção sobre combustíveis"
+  },
+  {
+    "CST-IBS/CBS": 620,
+    "Descrição CST-IBS/CBS": "Tributação monofásica",
+    "cClassTrib": 620003,
+    "Nome cClassTrib": "Tributação monofásica com tributos retidos por responsabilidade sobre combustíveis"
+  },
+  {
+    "CST-IBS/CBS": 620,
+    "Descrição CST-IBS/CBS": "Tributação monofásica",
+    "cClassTrib": 620004,
+    "Nome cClassTrib": "Tributação monofásica sobre mistura de EAC com gasolina A em percentual superior ao obrigatório"
+  },
+  {
+    "CST-IBS/CBS": 620,
+    "Descrição CST-IBS/CBS": "Tributação monofásica",
+    "cClassTrib": 620005,
+    "Nome cClassTrib": "Tributação monofásica sobre mistura de EAC com gasolina A em percentual inferior ao obrigatório"
+  },
+  {
+    "CST-IBS/CBS": 620,
+    "Descrição CST-IBS/CBS": "Tributação monofásica",
+    "cClassTrib": 620006,
+    "Nome cClassTrib": "Tributação monofásica sobre combustíveis cobrada anteriormente"
+  },
+  {
+    "CST-IBS/CBS": 800,
+    "Descrição CST-IBS/CBS": "Transferência de crédito",
+    "cClassTrib": 800001,
+    "Nome cClassTrib": "Fusão, cisão ou incorporação"
+  },
+  {
+    "CST-IBS/CBS": 800,
+    "Descrição CST-IBS/CBS": "Transferência de crédito",
+    "cClassTrib": 800002,
+    "Nome cClassTrib": "Transferência de crédito do associado, inclusive as cooperativas singulares"
+  },
+  {
+    "CST-IBS/CBS": 810,
+    "Descrição CST-IBS/CBS": "Ajuste de IBS na ZFM",
+    "cClassTrib": 810001,
+    "Nome cClassTrib": "Crédito presumido de IBS sobre o valor apurado nos fornecimentos a partir da ZFM"
+  },
+  {
+    "CST-IBS/CBS": 811,
+    "Descrição CST-IBS/CBS": "Ajustes",
+    "cClassTrib": 811001,
+    "Nome cClassTrib": "Anulação de Crédito por Saídas Imunes/Isentas"
+  },
+  {
+    "CST-IBS/CBS": 811,
+    "Descrição CST-IBS/CBS": "Ajustes",
+    "cClassTrib": 811002,
+    "Nome cClassTrib": "Débitos de notas fiscais não processadas na apuração"
+  },
+  {
+    "CST-IBS/CBS": 811,
+    "Descrição CST-IBS/CBS": "Ajustes",
+    "cClassTrib": 811003,
+    "Nome cClassTrib": "Desenquadramento do Simples Nacional"
+  },
+  {
+    "CST-IBS/CBS": 820,
+    "Descrição CST-IBS/CBS": "Tributação em declaração de regime específico",
+    "cClassTrib": 820001,
+    "Nome cClassTrib": "Documento com informações de fornecimento de serviços de planos de assistência à saúde"
+  },
+  {
+    "CST-IBS/CBS": 820,
+    "Descrição CST-IBS/CBS": "Tributação em declaração de regime específico",
+    "cClassTrib": 820002,
+    "Nome cClassTrib": "Documento com informações de fornecimento de serviços de planos de assistência funerária"
+  },
+  {
+    "CST-IBS/CBS": 820,
+    "Descrição CST-IBS/CBS": "Tributação em declaração de regime específico",
+    "cClassTrib": 820003,
+    "Nome cClassTrib": "Documento com informações de fornecimento de serviços de planos de assistência à saúde de animais domésticos"
+  },
+  {
+    "CST-IBS/CBS": 820,
+    "Descrição CST-IBS/CBS": "Tributação em declaração de regime específico",
+    "cClassTrib": 820004,
+    "Nome cClassTrib": "Documento com informações de prestação de serviços de consursos de prognósticos"
+  },
+  {
+    "CST-IBS/CBS": 820,
+    "Descrição CST-IBS/CBS": "Tributação em declaração de regime específico",
+    "cClassTrib": 820005,
+    "Nome cClassTrib": "Documento com informações de alienação de bens imóveis"
+  },
+  {
+    "CST-IBS/CBS": 820,
+    "Descrição CST-IBS/CBS": "Tributação em declaração de regime específico",
+    "cClassTrib": 820006,
+    "Nome cClassTrib": "Documento com informações de fornecimento de serviços de exploração de via"
+  },
+  {
+    "CST-IBS/CBS": 820,
+    "Descrição CST-IBS/CBS": "Tributação em declaração de regime específico",
+    "cClassTrib": 820007,
+    "Nome cClassTrib": "Documento com informações de fornecimento de serviços financeiros"
+  },
+  {
+    "CST-IBS/CBS": 820,
+    "Descrição CST-IBS/CBS": "Tributação em declaração de regime específico",
+    "cClassTrib": 820008,
+    "Nome cClassTrib": "Documento com informações de fornecimento, mas com tributação realizada em fatura anterior"
+  },
+  {
+    "CST-IBS/CBS": 830,
+    "Descrição CST-IBS/CBS": "Exclusão de base de cálculo",
+    "cClassTrib": 830001,
+    "Nome cClassTrib": "Documento com exclusão da BC da CBS e do IBS de energia elétrica fornecida pela distribuidora à UC"
+  }
+]
