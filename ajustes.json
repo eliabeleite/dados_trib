@@ -1,13 +1,1130 @@
 {
   "icms_amazonas": {
-    "anexo_ii_codigos_ajuste_documento_fiscal": [
+    "anexo_i_codigos_ajuste_apuracao": [
+      {
+        "codigo": "AM000001",
+        "descricao": "Transferência de saldo credor para o estabelecimento centralizador pelo estabelecimento não centralizador do sujeito passivo localizado no Estado - Decreto Estadual nº 20.686/1999, art. 102",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": "Transferência de saldo credor para o estabelecimento centralizador do sujeito passivo localizado no Estado - Decreto Estadual nº 20.686/1999, art. 102",
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM000002",
+        "descricao": "Recebimento de saldo devedor transferido por outro estabelecimento do sujeito passivo localizado no Estado - Decreto Estadual nº 20.686/1999, art. 102",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM000003",
+        "descricao": "Regime de Estimativa - saldo devedor apurado até o mês anterior - Decreto Estadual nº 20.686/1999, art. 46, caput e § 1º",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": "Regime de Estimativa - saldo devedor a recolher apurado até o mês anterior - Decreto Estadual nº 20.686/1999, art. 46, caput e § 1º",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM000004",
+        "descricao": "Recebimento de saldo devedor do DIFAL - operação não incentivada",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM000005",
+        "descricao": "Recebimento de saldo devedor do DIFAL - operação incentivada",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM000006",
+        "descricao": "Recebimento de saldo devedor pelo estabelecimento centralizador do sujeito passivo - Decreto Estadual nº 35.756/2015, art. 2º, II, \"a\"",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM000007",
+        "descricao": "Transferência de saldo credor para o estabelecimento centralizador pelo o estabelecimento não centralizador do sujeito passivo - Decreto Estadual nº 35.756/2015, art. 2º, I ,\"b\"",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM009999",
+        "descricao": "Outros débitos para ajuste de apuração do ICMS - operações próprias - descrever no registro E111 ou 1921",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Débito para ajuste de apuração do ICMS - operações próprias - descrever no registro E111",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM010001",
+        "descricao": "Estorno de crédito - Decreto Estadual nº 20.686/1999, arts. 31 e 32",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM010002",
+        "descricao": "Estorno de crédito - Diferimento - Lei Estadual nº 2.826/2003, art. 14, §§ 5º e 6º",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM010003",
+        "descricao": "Estorno de crédito - saída de bem de consumo final incentivado com carga tributária reduzida de 7% - Decreto Estadual nº 23.994/2003, art. 22, § 20",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM010004",
+        "descricao": "Estorno de crédito - optante pelo crédito presumido da Lei Complementar Estadual nº 202/2019",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0005/2020-GSEFAZ",
+        "vigencia_desde": "01/01/2020",
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM010005",
+        "descricao": "Estorno proporcional do crédito presumido relativo às saídas internas de GLGN - Lei Complementar nº 258/23",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0011/2025-GSEFAZ",
+        "vigencia_desde": "05/06/2023",
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM019999",
+        "descricao": "Outros estornos de crédito - operações próprias - descrever no registro E111 ou 1921",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Estorno de crédito - operações próprias - descrever no registro E111",
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM020001",
+        "descricao": "Transferência de saldo devedor para o estabelecimento centralizador pelo estabelecimento não centralizador do sujeito passivo localizado no Estado - Decreto Estadual nº 20.686/1999, art. 102",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": "Transferência de saldo devedor para o estabelecimento centralizador do sujeito passivo localizado no Estado - Decreto Estadual nº 20.686/1999, art. 102",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020002",
+        "descricao": "Recebimento de saldo credor transferido por outro estabelecimento do sujeito passivo localizado no Estado - Decreto Estadual nº 20.686/1999, art. 102",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020003",
+        "descricao": "Antecipação tributária - aquisição de mercadoria em outra unidade da federação - Decreto Estadual nº 20.686/1999, art. 20, X, e art. 118",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Antecipação tributária - mercadoria nacional - Decreto Estadual nº 20.686/1999, art. 20, X, e art. 118",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020004",
+        "descricao": "CIAP - Ativo Permanente - Decreto Estadual nº 20.686/1999, art. 20, IX",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020005",
+        "descricao": "Parcela mensal da Estimativa Fixa - Decreto Estadual nº 20.686/1999, art. 46",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020006",
+        "descricao": "Repetição de Indébito - Decreto Estadual nº 20.686/1999, art. 20, VI",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020007",
+        "descricao": "Importação de mercadoria estrangeira - Decreto Estadual nº 20.686/1999, art. 20, XI",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020008",
+        "descricao": "Despesas Aduaneiras - Decreto Estadual nº 20.686/1999, Regulamento do ICMS, art. 13, V e § 1º, e art. 98, VI",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": "Despesas Aduaneiras - Decreto Estadual nº 20.686/1999, art. 13, V e § 1º, e art. 98, IV",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020009",
+        "descricao": "Crédito Presumido - Lei Estadual nº 2.390/1996, art. 7º, V",
+        "status": "Revogado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020010",
+        "descricao": "Recuperação de crédito de ICMS de mercadoria considerada \"já tributada\" - Pedido de Ressarcimento - Decreto Estadual nº 20.686/1999, Regulamento do ICMS, art. 373",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": "Recuperação de crédito de ICMS Substituição Tributária. (ant.)",
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020011",
+        "descricao": "Parcelamento - direito a crédito do imposto recolhido",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020012",
+        "descricao": "AINF - direito a crédito do imposto lançado e recolhido",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020013",
+        "descricao": "Energia Elétrica - Decreto Estadual nº 20.686/1999, art. 20, VIII",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020014",
+        "descricao": "Recebimento de saldo credor do DIFAL - operação não incentivada",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020015",
+        "descricao": "Recebimento de saldo credor do DIFAL - operação incentivada",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020016",
+        "descricao": "Transferência de saldo devedor para o estabelecimento centralizador pelo estabelecimento não centralizador do sujeito passivo - Decreto Estadual nº 35.756/2015, art. 2º, I, \"a\"",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020017",
+        "descricao": "Recebimento de saldo credor pelo o estabelecimento centralizador do sujeito passivo - Decreto Estadual nº 35.756/2015, art. 2º, II, \"b\"",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020018",
+        "descricao": "Crédito presumido de até 3% sobre faturamento das empresas prestadoras de serviço de comunicação - Decreto nº 37.464/2016",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020019",
+        "descricao": "Crédito Presumido de 20% na prestação de serviço de transporte - Decreto nº 20.686/1999, art. 20, § 17.",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020020",
+        "descricao": "Antecipação tributária - aquisição de mercadoria em outra unidade da federação - Decreto Estadual nº 20.686/1999, art. 20, X, e art. 118 - Crédito Extemporâneo.",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020021",
+        "descricao": "Importação de mercadoria estrangeira - Decreto Estadual nº 20.686/1999, art. 20, XI - Crédito Extemporâneo.",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020022",
+        "descricao": "Crédito presumido de 1% do valor dos débitos de ICMS relacionados à prestação de serviços de telecomunicação - Conv. ICMS 56/2012 e Decreto nº 32.775/2012.",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020023",
+        "descricao": "Crédito fiscal presumido - operação de transferência interestadual ou saída para comercialização de mercadorias provenientes de outras unidades da Federação adquiridas para emprego em virtude de garantia - Decreto Estadual nº 20.686/1999, Regulamento do ICMS, art. 310-F, § 1º",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020024",
+        "descricao": "Retenção de ICMS Fornecedores do Estado - Decreto Estadual nº 22.061/2001, art. 3º",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020025",
+        "descricao": "Retenção de ICMS Fornecedores da Prefeitura de Manaus - Decreto Estadual nº 22.361/2001, art. 2º",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM020026",
+        "descricao": "Recuperação de crédito de ICMS de mercadoria considerada \"já tributada\" - levantamento de estoque - Decreto Estadual nº 20.686/1999, Regulamento do ICMS, art. 117-A, II, \"b\"",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020027",
+        "descricao": "Recuperação de crédito de ICMS de mercadoria considerada \"já tributada\" - entrada de mercadoria (documento fiscal) - Decreto Estadual nº 20.686/1999, Regulamento do ICMS, art. 20, § 11",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020028",
+        "descricao": "Crédito pelo pagamento de ICMS não diferido nos termos do Decreto 20.686/1999, Regulamento do ICMS, § 21, do art.109",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020029",
+        "descricao": "Crédito pelo pagamento de ICMS não diferido - Decreto Estadual nº 20.686/1999, Regulamento do ICMS, art. 109, § 25",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020030",
+        "descricao": "Crédito de ICMS relativo à mercadoria em estoque na data da exclusão de contribuinte do Simples Nacional, exceto mercadoria adquirida com substituição tributária ou com pagamento antecipado do imposto com encerramento de fase de tributação - Decreto Estadual nº 20.686/1999, Regulamento do ICMS, art. 20, caput, incisos I e II e art. 112",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020031",
+        "descricao": "Crédito Presumido - extração de petróleo e gás natural e processamento de gás natural - Lei Complementar Estadual nº 202/2019, Art. 1º, § 1º, I",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0005/2020-GSEFAZ",
+        "vigencia_desde": "01/01/2020",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020032",
+        "descricao": "Crédito Presumido - fabricação de produtos do refino de petróleo e de gás natural - Lei Complementar Estadual nº 202/2019, Art. 1º, § 1º, II",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0005/2020-GSEFAZ",
+        "vigencia_desde": "01/01/2020",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020033",
+        "descricao": "Ajuste a crédito decorrente de Regimes Especiais concedidos pelo Poder Executivo Estadual, ou de Convênios e Protocolos celebrados no âmbito do Confaz.",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0023/2022-GSEFAZ",
+        "vigencia_desde": "01/04/2014",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020034",
+        "descricao": "Crédito de ICMS relativo à regularização de estoque (exceto mercadoria sujeita à substituição tributária), de acordo com o art. 225, § 3º, VI do Regulamento do ICMS, aprovado pelo Decreto nº 20.686, de 1999.",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0023/2022-GSEFAZ",
+        "vigencia_desde": "13/06/2022",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020035",
+        "descricao": "Crédito de ICMS relativo ao excesso de cota de LCD (Liquid Crystal Display), nos termos do Decreto nº 32.297/12, art. 3º, § 4º, inciso I; § 6º e § 7º",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0036/2023-GSEFAZ",
+        "vigencia_desde": "03/04/2023",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020036",
+        "descricao": "Crédito de ICMS relativo a operações com álcool etílico hidratado combustível - AEHC e álcool para fins não-combustíveis nos termos do Protocolo ICMS 17/04, cláusula segunda",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0036/2023-GSEFAZ",
+        "vigencia_desde": "03/04/2023",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020037",
+        "descricao": "Crédito pelo pagamento de ICMS relativo ao desembaraço não notificado, com permissão legal de crédito",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0036/2023-GSEFAZ",
+        "vigencia_desde": "03/04/2023",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM020038",
+        "descricao": "Crédito Fiscal Presumido - operações com combustíveis destinados à geração de energia elétrica por Produtor Independente de Energia (PIE) em sistema isolado no interior do estado - Lei nº 6.257/23",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0036/2023-GSEFAZ",
+        "vigencia_desde": "03/04/2023",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM029999",
+        "descricao": "Outros créditos para ajuste de apuração do ICMS - operações próprias - descrever no registro E111 ou 1921",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Crédito para ajuste de apuração do ICMS - operações próprias - descrever no registro E111",
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM030001",
+        "descricao": "Estorno de débito de CT-e decorrente de emissão de CT-e substituto, nos termos do Ajuste Sinief 09/07, cláusula décima sétima, inciso III, alínea \"c\"",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0036/2023-GSEFAZ",
+        "vigencia_desde": "03/04/2023",
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Debito"
+      },
+      {
+        "codigo": "AM039999",
+        "descricao": "Outros estornos de débito - operações próprias - descrever no registro E111 ou 1921",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Estorno de débito - operações próprias - descrever no registro E111",
+        "tipo_ajuste": "Estorno_Debito"
+      },
+      {
+        "codigo": "AM040001",
+        "descricao": "Crédito Estímulo do ICMS - 90,25% - Lei Estadual nº 2.826/2003, art. 13, I",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040002",
+        "descricao": "Crédito Estímulo do ICMS - 75% - Lei Estadual nº 2.826/2003, art. 13, II",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040003",
+        "descricao": "Crédito Estímulo do ICMS - 55% - Lei Estadual nº 2.826/2003, art. 13, III",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040004",
+        "descricao": "Crédito Estímulo do ICMS - 100% - Lei Estadual nº 2.826/2003, art. 13, § 3º",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040005",
+        "descricao": "Crédito Estímulo do ICMS - 55% - Adicional de 20% - Lei Estadual nº 2.826/2003, art. 13, § 4º",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040006",
+        "descricao": "Crédito Estímulo do ICMS - 75% - Adicional de regionalização - Lei Estadual nº 2.826/2003, art. 13, §§ 5º, 6º, 7º e 8º",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040007",
+        "descricao": "Crédito Estímulo do ICMS - 55% - Adicional de regionalização - Lei Estadual nº 2.826/2003, art. 13, §§ 9º, 10, 11 e 12",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040008",
+        "descricao": "Crédito Estímulo do ICMS - 100% - Lei Estadual nº 2.826/2003, art. 13, § 13",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040009",
+        "descricao": "Crédito Estímulo do ICMS - 55% - Adicional de 5% - Lei Estadual nº 2.826/2003, art. 13, § 14",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040010",
+        "descricao": "Crédito Estímulo do ICMS - 75% - Lei Estadual nº 2.826/2003, art. 13, § 15",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040011",
+        "descricao": "Crédito Estímulo do ICMS - 100% - Lei Estadual nº 2.826/2003, art. 13, § 18",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040012",
+        "descricao": "Crédito Estímulo do ICMS - nível concedido na forma da Lei Estadual nº 2.826/2003, art. 16",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040013",
+        "descricao": "Regime de Estimativa - saldo devedor apurado a transportar para o mês seguinte do trimestre de apuração - Decreto Estadual nº 20.686/1999, art. 46, caput e § 1º",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM040014",
+        "descricao": "Crédito Estímulo do ICMS - 75% - Lei Estadual nº 2.826/2003, art. 13, caput, inciso III, combinado com Decreto Estadual nº 32.297/12, art. 3º, inciso II",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM040015",
+        "descricao": "Cesta Básica - Lei nº 6.107/22 - dedução de 5% do ICMS que seria devido para apuração da contrapartida ao FPS a recolher",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0014/2023-GSEFAZ",
+        "vigencia_desde": "01/03/2023",
+        "redacao_original": null,
+        "tipo_ajuste": "Deducao"
+      },
+      {
+        "codigo": "AM049999",
+        "descricao": "Outras deduções do ICMS apurado - operações próprias - descrever no registro E111 ou 1921",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Dedução do imposto apurado - operações próprias - descrever no registro E111",
+        "tipo_ajuste": "Deducao"
+      },
+      {
+        "codigo": "AM050001",
+        "descricao": "Cesta Básica - mercadorias procedentes de outra Unidade da Federação - Decreto Estadual nº 23.994/2003, art. 38, caput e § 1º, I",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050002",
+        "descricao": "ICMS Antecipação Tributária - Mercadoria Nacional - Decreto Estadual nº 20.686/1999, art. 118",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050003",
+        "descricao": "ICMS Antecipação Tributária com encerramento da tributação - gado em pé destinado ao abate, as carnes, vísceras, frango e produtos de sua matança, in natura - Decreto Estadual nº 20.686/1999, art. 118, § 4º",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050004",
+        "descricao": "ICMS Antecipação Tributária com encerramento da tributação - bebidas alcóolicas de posições NCM 2204 e 2208, farinha de trigo ou semolina - Decreto Estadual nº 20.686/1999, art. 118, § 5º",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050005",
+        "descricao": "ICMS Antecipação Tributária com encerramento da tributação - café - Decreto Estadual nº 20.686/1999, art. 118, § 5º",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050006",
+        "descricao": "ICMS Antecipação Tributária com encerramento da tributação - mercadorias sujeitas ao regime de substituição tributária provenientes de Estado não signatário de Convênio - Decreto Estadual nº 20.686/1999, art. 120",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050007",
+        "descricao": "ICMS Mercadoria Importada do Exterior - Insumo Industrial - Decreto Estadual nº 20.686/1999, art. 2º, § 1º, I, e art. 107, I, \"a\"",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050008",
+        "descricao": "ICMS Mercadorias Importada do Exterior - Comercialização - Decreto Estadual nº 20.686/1999, art. 2º, § 1º, I, e art. 107, I, \"a\"",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050009",
+        "descricao": "ICMS Mercadorias ou Bens importados do exterior - uso e consumo - Decreto Estadual nº 20.686/1999, art. 2º, § 1º, I, e art. 107, I, \"a\"",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050010",
+        "descricao": "ICMS Mercadorias ou bens importados do exterior - Ativo Permanente - Decreto Estadual nº 20.686/1999, art. 2º, § 1º, I, e art. 107, I, \"a\"",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050011",
+        "descricao": "ICMS sobre Despesas Aduaneiras - insumos industriais - Decreto Estadual nº 20.686/1999, art. 13, V, \"e\", e art. 107, § 1º, I",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050012",
+        "descricao": "ICMS sobre Despesas Aduaneiras - outras importações - Decreto Estadual nº 20.686/1999, art. 13, V, \"e\", e art. 107, § 1º, II, \"b\"",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050013",
+        "descricao": "ICMS Diferencial de alíquotas - mercadorias ou bens para uso e consumo - Decreto Estadual nº 20.686/1999, art. 3º, XIV",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050014",
+        "descricao": "ICMS Diferencial de alíquotas - bens para o ativo permanente do contribuinte - Decreto Estadual nº 20.686/1999, art. 3º, XIV",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050015",
+        "descricao": "ICMS Diferido a Recolher - Produtos Agrícolas - Decreto Estadual nº 20.686/1999, art. 109, § 4º, II, \"b\"",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050016",
+        "descricao": "ICMS Estorno de Crédito - Entrada Incentivada - Decreto Estadual nº 20.686/1999, art. 31, art. 35 e art. 107, V",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM050017",
+        "descricao": "ICMS Estorno de Crédito - Saída Incentivada - Decreto Estadual nº 20.686/1999, art. 13, V, \"e\", e art. 107, § 1º, I",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM050018",
+        "descricao": "ICMS Estorno de Crédito - Álcool Anidro e Biodiesel - Conv. ICMS nº 110/2007, cláusula vigésima primeira, § 10, e Decreto Estadual nº 20.686/1999, art. 13, V, \"e\", e art. 107, § 1º, I",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM050019",
+        "descricao": "ICMS Estorno de Crédito - Outros - Decreto Estadual nº 20.686/1999, art. 13, V, \"e\", e art. 107, § 1º, I",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM050020",
+        "descricao": "ICMS Excesso Cota LCD - Decreto Estadual nº 32.297/2012, art. 3º, § 4º",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050021",
+        "descricao": "ICMS Energia Elétrica - Produção Própria - Decreto Estadual nº 20.686/1999, art. 2º, § 3º, II, \"f\"",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050022",
+        "descricao": "Simples Nacional - valor do ICMS a recolher apurado no Programa Gerador do Documento de Arrecadação do Simples Nacional - Declaratório - PGDAS-D",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050023",
+        "descricao": "Regime de estimativa - parcela mensal fixa - Decreto Estadual nº 20.686/1999, art. 107, II, \"b\", 1",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050024",
+        "descricao": "ICMS Diferido a Recolher - refeições prontas adquiridas por estabelecimento industrial - Decreto Estadual nº 20.686/1999, art. 109, § 4º, II, \"c\"",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050025",
+        "descricao": "FPS Entrada de Mercadoria Nacional - Decreto Estadual nº 38.006/17, art. 3º, I",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": "FPS - Entrada de Mercadoria Nacional.",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050026",
+        "descricao": "FPS Mercadoria Importada do Exterior - Decreto Estadual nº 38.006/17, art. 3º, II",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": "FPS - Mercadoria Importada do Exterior.",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM050029",
+        "descricao": "ICMS Substituição Tributária sobre estoque de mercadorias - Decreto Estadual nº 20.686/1999, Regulamento do ICMS, art. 117-A, II, \"a\"",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0003/2023-GSEFAZ",
+        "vigencia_desde": "24/01/2023",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM051001",
+        "descricao": "Contribuição à UEA",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM051002",
+        "descricao": "Contribuição ao FTI",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM051003",
+        "descricao": "Contribuição ao FMPES",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM059999",
+        "descricao": "Outros débitos especiais - operações próprias - descrever no registro E111 ou 1921",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Débito especial - operações próprias - descrever no registro E111",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM099999",
+        "descricao": "Controle do ICMS extra-apuração",
+        "status": null,
+        "resolucao_alteradora": null,
+        "vigencia_desde": null,
+        "redacao_original": null,
+        "tipo_ajuste": "Outro"
+      },
+      {
+        "codigo": "AM109999",
+        "descricao": "Outros débitos - operações com ICMS-ST - descrever no registro E220",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Débito de operações com ICMS-ST - descrever no registro E111",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM119999",
+        "descricao": "Outros estornos de crédito - operações com ICMS-ST - descrever no registro E220",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Estorno de crédito - operações com ICMS-ST - descrever no registro E111",
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM129999",
+        "descricao": "Outros créditos - operações com ICMS-ST - descrever no registro E220",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Crédito de operações com ICMS-ST - descrever no registro E111",
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM139999",
+        "descricao": "Outros estornos de débito - operações com ICMS-ST - descrever no registro E220",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Estorno de débito - operações com ICMS-ST - descrever no registro E111",
+        "tipo_ajuste": "Estorno_Debito"
+      },
+      {
+        "codigo": "AM149999",
+        "descricao": "Outras deduções do ICMS-ST apurado - descrever no registro E220",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Dedução do ICMS-ST apurado - descrever no registro E111",
+        "tipo_ajuste": "Deducao"
+      },
+      {
+        "codigo": "AM150001",
+        "descricao": "FPS - Operação Interestadual Substituição Tributária - Decreto Estadual nº 38.006/17, art. 3º, IV",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": "FPS - Operação Interestadual Substituição Tributária.",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM150002",
+        "descricao": "ICMS Substituição Tributária sobre estoque de mercadorias - Decreto Estadual nº 20.686/1999, Regulamento do ICMS, art. 117-A, II, \"a\"",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
+        "vigencia_desde": "01/11/2019",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM159999",
+        "descricao": "Outros débitos especiais - operações com ICMS-ST - descrever no registro E220",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
+        "vigencia_desde": "01/01/2015",
+        "redacao_original": "Débito especial - operações com ICMS-ST - descrever no registro E111",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM200001",
+        "descricao": "Transferência de saldo credor do DIFAL - operação não incentivada",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM200002",
+        "descricao": "Transferência de saldo credor do DIFAL - operação incentivada",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM209999",
+        "descricao": "Outros débitos para ajuste de apuração ICMS Difal para a UF AM;",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": "Outros débitos para ajuste de apuração ICMS Difal/FCP para a UF AM;",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM219999",
+        "descricao": "Estorno de créditos para ajuste de apuração ICMS Difal para a UF AM.",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": "Estorno de créditos para ajuste de apuração ICMS Difal/FCP para a UF AM;",
+        "tipo_ajuste": "Estorno_Credito"
+      },
+      {
+        "codigo": "AM220001",
+        "descricao": "Transferência de saldo devedor do DIFAL - operação não incentivada",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM220002",
+        "descricao": "Transferência de saldo devedor do DIFAL - operação incentivada",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM220003",
+        "descricao": "Recolhimento antecipado do DIFAL",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0004/2016-GSEFAZ",
+        "vigencia_desde": "01/01/2016",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM229999",
+        "descricao": "Outros créditos para ajuste de apuração ICMS Difal para a UF AM.",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": "Outros créditos para ajuste de apuração ICMS Difal/FCP para a UF AM;",
+        "tipo_ajuste": "Credito"
+      },
+      {
+        "codigo": "AM239999",
+        "descricao": "Estorno de débitos para ajuste de apuração ICMS Difal para a UF AM.",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": "Estorno de débitos para ajuste de apuração ICMS Difal/FCP para a UF AM;",
+        "tipo_ajuste": "Estorno_Debito"
+      },
+      {
+        "codigo": "AM249999",
+        "descricao": "Deduções do imposto apurado na apuração ICMS Difal para a UF AM.",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": "Deduções do imposto apurado na apuração ICMS Difal/FCP para a UF AM;",
+        "tipo_ajuste": "Deducao"
+      },
+      {
+        "codigo": "AM259999",
+        "descricao": "Débito especial de ICMS Difal para a UF AM.",
+        "status": "Nova redação",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": "Débito especial de ICMS Difal/FCP para a UF AM.",
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM309999",
+        "descricao": "Outros débitos para ajuste de apuração ICMS FCP para a UF AM",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
+      },
+      {
+        "codigo": "AM319999",
+        "descricao": "Estorno de créditos para ajuste de apuração ICMS FCP para a UF AM",
+        "status": "Acrescentado",
+        "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
+        "vigencia_desde": "01/07/2018",
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Credito"
+      },
       {
         "codigo": "AM329999",
         "descricao": "Outros créditos para ajuste de apuração ICMS FCP para a UF AM",
         "status": "Acrescentado",
         "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
         "vigencia_desde": "01/07/2018",
-        "redacao_original": null
+        "redacao_original": null,
+        "tipo_ajuste": "Credito"
       },
       {
         "codigo": "AM339999",
@@ -15,7 +1132,8 @@
         "status": "Acrescentado",
         "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
         "vigencia_desde": "01/07/2018",
-        "redacao_original": null
+        "redacao_original": null,
+        "tipo_ajuste": "Estorno_Debito"
       },
       {
         "codigo": "AM349999",
@@ -23,7 +1141,8 @@
         "status": "Acrescentado",
         "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
         "vigencia_desde": "01/07/2018",
-        "redacao_original": null
+        "redacao_original": null,
+        "tipo_ajuste": "Deducao"
       },
       {
         "codigo": "AM359999",
@@ -31,554 +1150,81 @@
         "status": "Acrescentado",
         "resolucao_alteradora": "Resolução nº 0010/2018-GSEFAZ",
         "vigencia_desde": "01/07/2018",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM00000001",
-        "descricao": "Crédito de ICMS pela aquisição de mercadoria de microempresa ou empresa de pequeno porte optante pelo Simples Nacional - Lei Complementar Federal nº 123/2006, art. 23, §§ 1º a 5º",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
-        "vigencia_desde": "10/11/2014",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM00000002",
-        "descricao": "Crédito de ICMS pela aquisição de óleo diesel nos termos do art. 1º da Resolução nº 15/2023-GSEFAZ",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0023/2023-GSEFAZ",
-        "vigencia_desde": "01/05/2023",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM08000001",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS que seria permitido nas entradas interestaduais de mercadorias",
-        "status": "Revogado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023"
-      },
-      {
-        "codigo": "AM08000002",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS operação própria que seria permitido nas devoluções de mercadorias objeto de operação interna de saída",
-        "status": "Revogado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023"
-      },
-      {
-        "codigo": "AM08000003",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS por substituição tributária que seria permitido nas devoluções de mercadorias objeto de operação interna de saída",
-        "status": "Revogado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023"
-      },
-      {
-        "codigo": "AM10000001",
-        "descricao": "Crédito Presumido de 3% - saída de mercadoria importada do exterior com similar nacional destinada a contribuinte em outra unidade da federação - Lei Estadual nº 3.830/2012, art. 1º, inciso I, \"b\"",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM10000002",
-        "descricao": "Crédito Presumido de 6% - saída de mercadoria importada do exterior com similar nacional destinada a não contribuinte em outra unidade da federação - Lei Estadual nº 3.830/2012, art. 1º, inciso I, \"c\"",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM10000003",
-        "descricao": "Crédito Presumido de 6% - saída de mercadoria importada do exterior sem similar nacional destinada a contribuinte em outra unidade da federação - Lei Estadual nº 3.830/2012, art. 1º, inciso II, \"b\"",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM10000004",
-        "descricao": "Crédito Presumido de 6% - saída de mercadoria importada do exterior sem similar nacional destinada a não contribuinte em outra unidade da federação - Lei Estadual nº 3.830/2012, art. 1º, inciso II, \"c\"",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM10080009",
-        "descricao": "Crédito presumido relativo às operações internas com GLGN - Lei Complementar nº 258/23",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0011/2025-GSEFAZ",
-        "vigencia_desde": "05/06/2023",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM11000001",
-        "descricao": "Ressarcimento de ICMS-ST pelo substituto tributário - RICMS, art. 374-E, § 1º, inciso II",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0009/2021-GSEFAZ",
-        "vigencia_desde": "17/05/2021",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM23000001",
-        "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 90,25 % (noventa inteiros e vinte e cinco centésimos por cento) - Saídas",
-        "status": "Nova redação",
-        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
-        "vigencia_desde": "01/11/2019",
-        "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, incisos I, IV e VII - Saídas"
-      },
-      {
-        "codigo": "AM24000002",
-        "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 75 % (setenta e cinco por cento) - Saídas",
-        "status": "Nova redação",
-        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
-        "vigencia_desde": "01/11/2019",
-        "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, incisos II, III, V e VI - Saídas"
-      },
-      {
-        "codigo": "AM25000003",
-        "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 55 % (cinquenta e cinco por cento) - Saídas",
-        "status": "Nova redação",
-        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
-        "vigencia_desde": "01/11/2019",
-        "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, inciso VIII - Saídas"
-      },
-      {
-        "codigo": "AM26000004",
-        "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 100% (cem por cento) - Saídas",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
-        "vigencia_desde": "10/11/2014",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM27000005",
-        "descricao": "Outras apurações - operações incentivadas - operações definidas na Lei Estadual nº 3.830/2012, art. 3º - Saídas",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 035/2019-GSEFAZ",
-        "vigencia_desde": "27/12/2019",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM28000001",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - ICMS operação própria que seria devido sobre as operações internas de saída",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM28000002",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - ICMS por substituição tributária que seria devido sobre as operações internas de saída",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM38000001",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - ICMS operação própria que seria devido sobre as operações internas de saída",
-        "status": "Revogado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023"
-      },
-      {
-        "codigo": "AM38000002",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - ICMS por substituição tributária que seria devido sobre as operações internas de saída",
-        "status": "Revogado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023"
-      },
-      {
-        "codigo": "AM53000001",
-        "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 90,25 % (noventa inteiros e vinte e cinco centésimos por cento) - Entradas",
-        "status": "Nova redação",
-        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
-        "vigencia_desde": "01/11/2019",
-        "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, incisos I, IV e VII - Entradas"
-      },
-      {
-        "codigo": "AM54000002",
-        "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 75 % (setenta e cinco por cento) - Entradas",
-        "status": "Nova redação",
-        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
-        "vigencia_desde": "01/11/2019",
-        "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, incisos II, III, V e VI - Entradas"
-      },
-      {
-        "codigo": "AM55000003",
-        "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 55 % (cinquenta e cinco por cento) - Entradas",
-        "status": "Nova redação",
-        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
-        "vigencia_desde": "01/11/2019",
-        "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, inciso VIII - Entradas"
-      },
-      {
-        "codigo": "AM56000004",
-        "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 100% (cem por cento) - Entradas",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
-        "vigencia_desde": "10/11/2014",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM58000001",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS que seria permitido nas entradas interestaduais de mercadorias",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM58000002",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS operação própria que seria permitido nas devoluções de mercadorias objeto de operação interna de saída",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM58000003",
-        "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS por substituição tributária que seria permitido nas devoluções de mercadorias objeto de operação interna de saída",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ",
-        "vigencia_desde": "01/03/2023",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM70010003",
-        "descricao": "FPS - Operação Interna - Decreto Estadual nº 38.006/2017, art. 3º, incisos III, alíneas \"a\", \"b\" e \"c\", V e VI",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ",
-        "vigencia_desde": "01/11/2019",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM71011001",
-        "descricao": "Retenção de ICMS-ST pela aquisição de serviço de transporte interestadual e intermunicipal iniciado no Estado - Decreto Estadual nº 20.686/1999, art. 110, III",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM71011002",
-        "descricao": "Retenção de ICMS-ST pela aquisição de serviço de transporte interestadual e intermunicipal prestado por transportador autônomo - Decreto Estadual nº 20.686/1999, art. 3º, XVII",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM99991001",
-        "descricao": "ICMS retido por substituição tributária pelo tomador do serviço de transporte - Decreto Estadual nº 20.686/1999, art. 111, § 12, inciso V",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
+        "redacao_original": null,
+        "tipo_ajuste": "Debito"
       }
     ],
-    "anexo_iii_codigos_informacoes_adicionais_valores_declaratorios": [
-      {
-        "codigo": "AM000001",
-        "descricao": "Valor total das operações de saída - base de cálculo do crédito presumido concedido pela Lei Complementar Estadual nº 202/2019, Art. 1º, § 1º, I",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0005/2020-GSEFAZ",
-        "vigencia_desde": "01/01/2020",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM000002",
-        "descricao": "Valor total do imposto debitado nas operações de saída - base de cálculo do crédito presumido concedido pela Lei Complementar Estadual nº 202/2019, Art. 1º, § 1º, II",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0005/2020-GSEFAZ",
-        "vigencia_desde": "01/01/2020",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001321",
-        "descricao": "ICMS Vendas a prazo - base de cálculo - cód. de tributo 1321",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001324",
-        "descricao": "ICMS Diferido Alimentação - base de cálculo - cód. de tributo 1324",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
-        "vigencia_desde": "10/11/2014",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001330",
-        "descricao": "ICMS Diferença de alíquota não notificada - base de cálculo - cód. de tributo 1330",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001341",
-        "descricao": "ICMS Diferido a recolher (Produtos Agrícolas) - base de cálculo - cód. de tributo 1341",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001350",
-        "descricao": "ICMS Subst. Tributária Operações Internas (fonte) - base de cálculo - cód. de tributo 1350",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001351",
-        "descricao": "ICMS Estorno de Crédito Entrada Incentivada - base de cálculo - cód. de tributo 1351",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001360",
-        "descricao": "ICMS Estorno de Crédito Álcool Anidro e Biodiesel - base de cálculo - cód. de tributo 1360",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001374",
-        "descricao": "ICMS Despesas Aduaneiras (Comércio) - base de cálculo - cód. de tributo 1374",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001375",
-        "descricao": "ICMS Despesas Aduaneiras (Indústria) - base de cálculo - cód. de tributo 1375",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001385",
-        "descricao": "ICMS Energia Elétrica (produção própria) - base de cálculo - cód. de tributo 1385",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM001394",
-        "descricao": "ICMS Estorno de Crédito Saída Incentivada - base de cálculo - cód. de tributo 1394",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM106401",
-        "descricao": "Base de Cálculo - Contribuição à UEA - P & D - cód. tributo 6401",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM106402",
-        "descricao": "Base de Cálculo - Contribuição à UEA (Lei Estadual nº 1.939/1989) - sobre ICMS restituível - cód. tributo 6402",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM106403",
-        "descricao": "Base de Cálculo - Contribuição à UEA - sobre crédito presumido - cód. tributo 6403",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM106404",
-        "descricao": "Base de Cálculo - Contribuição à UEA - sobre crédito estímulo de 100% - cód. tributo 6404",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM106405",
-        "descricao": "Base de Cálculo - Contribuição à UEA - sobre faturamento bruto - bens intermediários - cód. tributo 6405",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM106406",
-        "descricao": "Base de Cálculo - Contribuição à UEA - sobre crédito estímulo inferior a 100% - cód. tributo 6406",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109850",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - saídas de mercadoria importada com aplicação de alíquota de 7% - cód. tributo 9850",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
-        "vigencia_desde": "10/11/2014",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109851",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - sobre faturamento bruto industrial - cód. tributo 9851",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109852",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - sobre faturamento bruto industrial - expansão e diversificação - cód. tributo 9852",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109854",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - importação de insumos industriais de bem final (2% do valor FOB) - cód. tributo 9854",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ",
-        "vigencia_desde": "10/11/2014",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109855",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - sobre faturamento bruto - bem intermediário - diferimento - cód. tributo 9855",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109856",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - aquisição de insumos nacionais - bem final - cód. tributo 9856",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109857",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - projetos agropecuários - cód. tributo 9857",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109858",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - concentrados - cód. tributo 9858",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109859",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - LCD - cód. tributo 9859",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109861",
-        "descricao": "Base de Cálculo - Contribuição ao FTI - faturamento bruto industrial - duas rodas - 0,25% - cód. tributo 9861",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109880",
-        "descricao": "Base de Cálculo - Contribuição ao FMPES - sobre crédito estímulo - cód. tributo 9880",
-        "status": "Acrescentado",
-        "resolucao_alteradora": "Resolução nº 0021/2014-GSEFAZ",
-        "vigencia_desde": "11/08/2014",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM109885",
-        "descricao": "Base de Cálculo - Contribuição ao FMPES - sobre crédito estímulo - cód. tributo 9885",
-        "status": "Revogado",
-        "resolucao_alteradora": "Resolução nº 0021/2014-GSEFAZ",
-        "vigencia_desde": "11/08/2014",
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM282601",
-        "descricao": "Custo das matérias-primas regionais - CMR - Lei Estadual nº 2.826/2003, art. 13, § 6º",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM282602",
-        "descricao": "Custo dos demais componentes - CDC - Lei Estadual nº 2.826/2003, art. 13, § 6º",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM282603",
-        "descricao": "Custo da mão de obra - MO - Lei Estadual nº 2.826/2003, art. 13, § 6º",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM282604",
-        "descricao": "Custo dos componentes locais - CCL - Lei Estadual nº 2.826/2003, art. 13, § 10",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM282605",
-        "descricao": "Custo dos componentes nacionais - CCN - Lei Estadual nº 2.826/2003, art. 13, § 10",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      },
-      {
-        "codigo": "AM282606",
-        "descricao": "Custo dos componentes importados - CCL - Lei Estadual nº 2.826/2003, art. 13, § 10",
-        "status": null,
-        "resolucao_alteradora": null,
-        "vigencia_desde": null,
-        "redacao_original": null
-      }
+    "anexo_ii_codigos_ajuste_documento_fiscal": [
+      { "codigo": "AM00000001", "descricao": "Crédito de ICMS pela aquisição de mercadoria de microempresa ou empresa de pequeno porte optante pelo Simples Nacional - Lei Complementar Federal nº 123/2006, art. 23, §§ 1º a 5º", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ", "vigencia_desde": "10/11/2014", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM00000002", "descricao": "Crédito de ICMS pela aquisição de óleo diesel nos termos do art. 1º da Resolução nº 15/2023-GSEFAZ", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0023/2023-GSEFAZ", "vigencia_desde": "01/05/2023", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM08000001", "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS que seria permitido nas entradas interestaduais de mercadorias", "status": "Revogado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM08000002", "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS operação própria que seria permitido nas devoluções de mercadorias objeto de operação interna de saída", "status": "Revogado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM08000003", "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS por substituição tributária que seria permitido nas devoluções de mercadorias objeto de operação interna de saída", "status": "Revogado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM10000001", "descricao": "Crédito Presumido de 3% - saída de mercadoria importada do exterior com similar nacional destinada a contribuinte em outra unidade da federação - Lei Estadual nº 3.830/2012, art. 1º, inciso I, \"b\"", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM10000002", "descricao": "Crédito Presumido de 6% - saída de mercadoria importada do exterior com similar nacional destinada a não contribuinte em outra unidade da federação - Lei Estadual nº 3.830/2012, art. 1º, inciso I, \"c\"", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM10000003", "descricao": "Crédito Presumido de 6% - saída de mercadoria importada do exterior sem similar nacional destinada a contribuinte em outra unidade da federação - Lei Estadual nº 3.830/2012, art. 1º, inciso II, \"b\"", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM10000004", "descricao": "Crédito Presumido de 6% - saída de mercadoria importada do exterior sem similar nacional destinada a não contribuinte em outra unidade da federação - Lei Estadual nº 3.830/2012, art. 1º, inciso II, \"c\"", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM10080009", "descricao": "Crédito presumido relativo às operações internas com GLGN - Lei Complementar nº 258/23", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0011/2025-GSEFAZ", "vigencia_desde": "05/06/2023", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM11000001", "descricao": "Ressarcimento de ICMS-ST pelo substituto tributário - RICMS, art. 374-E, § 1º, inciso II", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0009/2021-GSEFAZ", "vigencia_desde": "17/05/2021", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM23000001", "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 90,25 % (noventa inteiros e vinte e cinco centésimos por cento) - Saídas", "status": "Nova redação", "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ", "vigencia_desde": "01/11/2019", "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, incisos I, IV e VII - Saídas", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM24000002", "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 75 % (setenta e cinco por cento) - Saídas", "status": "Nova redação", "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ", "vigencia_desde": "01/11/2019", "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, incisos II, III, V e VI - Saídas", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM25000003", "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 55 % (cinquenta e cinco por cento) - Saídas", "status": "Nova redação", "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ", "vigencia_desde": "01/11/2019", "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, inciso VIII - Saídas", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM26000004", "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 100% (cem por cento) - Saídas", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ", "vigencia_desde": "10/11/2014", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM27000005", "descricao": "Outras apurações - operações incentivadas - operações definidas na Lei Estadual nº 3.830/2012, art. 3º - Saídas", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 035/2019-GSEFAZ", "vigencia_desde": "27/12/2019", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM28000001", "descricao": "Cesta Básica - Lei nº 6.107/22 - ICMS operação própria que seria devido sobre as operações internas de saída", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM28000002", "descricao": "Cesta Básica - Lei nº 6.107/22 - ICMS por substituição tributária que seria devido sobre as operações internas de saída", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM38000001", "descricao": "Cesta Básica - Lei nº 6.107/22 - ICMS operação própria que seria devido sobre as operações internas de saída", "status": "Revogado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM38000002", "descricao": "Cesta Básica - Lei nº 6.107/22 - ICMS por substituição tributária que seria devido sobre as operações internas de saída", "status": "Revogado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": "Acrescentado pela Resolução nº 0014/2023-GSEFAZ, efeitos a partir de 01/03/2023", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM53000001", "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 90,25 % (noventa inteiros e vinte e cinco centésimos por cento) - Entradas", "status": "Nova redação", "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ", "vigencia_desde": "01/11/2019", "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, incisos I, IV e VII - Entradas", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM54000002", "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 75 % (setenta e cinco por cento) - Entradas", "status": "Nova redação", "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ", "vigencia_desde": "01/11/2019", "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, incisos II, III, V e VI - Entradas", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM55000003", "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 55 % (cinquenta e cinco por cento) - Entradas", "status": "Nova redação", "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ", "vigencia_desde": "01/11/2019", "redacao_original": "Outras apurações - operações incentivadas - produtos com características definidas na Lei Estadual nº 2.826/2003, art. 10, inciso VIII - Entradas", "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM56000004", "descricao": "Outras apurações - operações incentivadas - produtos com nível de crédito estímulo de 100% (cem por cento) - Entradas", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ", "vigencia_desde": "10/11/2014", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM58000001", "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS que seria permitido nas entradas interestaduais de mercadorias", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM58000002", "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS operação própria que seria permitido nas devoluções de mercadorias objeto de operação interna de saída", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM58000003", "descricao": "Cesta Básica - Lei nº 6.107/22 - crédito do ICMS por substituição tributária que seria permitido nas devoluções de mercadorias objeto de operação interna de saída", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0017/2023-GSEFAZ", "vigencia_desde": "01/03/2023", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM70010003", "descricao": "FPS - Operação Interna - Decreto Estadual nº 38.006/2017, art. 3º, incisos III, alíneas \"a\", \"b\" e \"c\", V e VI", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0029/2019-GSEFAZ", "vigencia_desde": "01/11/2019", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM71011001", "descricao": "Retenção de ICMS-ST pela aquisição de serviço de transporte interestadual e intermunicipal iniciado no Estado - Decreto Estadual nº 20.686/1999, art. 110, III", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM71011002", "descricao": "Retenção de ICMS-ST pela aquisição de serviço de transporte interestadual e intermunicipal prestado por transportador autônomo - Decreto Estadual nº 20.686/1999, art. 3º, XVII", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM99991001", "descricao": "ICMS retido por substituição tributária pelo tomador do serviço de transporte - Decreto Estadual nº 20.686/1999, art. 111, § 12, inciso V", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" }
+    ],
+    "anexo_iii_codigos_informacoes_declaratorias": [
+      { "codigo": "AM000001", "descricao": "Valor total das operações de saída - base de cálculo do crédito presumido concedido pela Lei Complementar Estadual nº 202/2019, Art. 1º, § 1º, I", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0005/2020-GSEFAZ", "vigencia_desde": "01/01/2020", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM000002", "descricao": "Valor total do imposto debitado nas operações de saída - base de cálculo do crédito presumido concedido pela Lei Complementar Estadual nº 202/2019, Art. 1º, § 1º, II", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0005/2020-GSEFAZ", "vigencia_desde": "01/01/2020", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001321", "descricao": "ICMS Vendas a prazo - base de cálculo - cód. de tributo 1321", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001324", "descricao": "ICMS Diferido Alimentação - base de cálculo - cód. de tributo 1324", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ", "vigencia_desde": "10/11/2014", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001330", "descricao": "ICMS Diferença de alíquota não notificada - base de cálculo - cód. de tributo 1330", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001341", "descricao": "ICMS Diferido a recolher (Produtos Agrícolas) - base de cálculo - cód. de tributo 1341", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001350", "descricao": "ICMS Subst. Tributária Operações Internas (fonte) - base de cálculo - cód. de tributo 1350", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001351", "descricao": "ICMS Estorno de Crédito Entrada Incentivada - base de cálculo - cód. de tributo 1351", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001360", "descricao": "ICMS Estorno de Crédito Álcool Anidro e Biodiesel - base de cálculo - cód. de tributo 1360", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001374", "descricao": "ICMS Despesas Aduaneiras (Comércio) - base de cálculo - cód. de tributo 1374", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001375", "descricao": "ICMS Despesas Aduaneiras (Indústria) - base de cálculo - cód. de tributo 1375", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001385", "descricao": "ICMS Energia Elétrica (produção própria) - base de cálculo - cód. de tributo 1385", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM001394", "descricao": "ICMS Estorno de Crédito Saída Incentivada - base de cálculo - cód. de tributo 1394", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM106401", "descricao": "Base de Cálculo - Contribuição à UEA - P & D - cód. tributo 6401", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM106402", "descricao": "Base de Cálculo - Contribuição à UEA (Lei Estadual nº 1.939/1989) - sobre ICMS restituível - cód. tributo 6402", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM106403", "descricao": "Base de Cálculo - Contribuição à UEA - sobre crédito presumido - cód. tributo 6403", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM106404", "descricao": "Base de Cálculo - Contribuição à UEA - sobre crédito estímulo de 100% - cód. tributo 6404", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM106405", "descricao": "Base de Cálculo - Contribuição à UEA - sobre faturamento bruto - bens intermediários - cód. tributo 6405", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM106406", "descricao": "Base de Cálculo - Contribuição à UEA - sobre crédito estímulo inferior a 100% - cód. tributo 6406", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109850", "descricao": "Base de Cálculo - Contribuição ao FTI - saídas de mercadoria importada com aplicação de alíquota de 7% - cód. tributo 9850", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ", "vigencia_desde": "10/11/2014", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109851", "descricao": "Base de Cálculo - Contribuição ao FTI - sobre faturamento bruto industrial - cód. tributo 9851", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109852", "descricao": "Base de Cálculo - Contribuição ao FTI - sobre faturamento bruto industrial - expansão e diversificação - cód. tributo 9852", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109854", "descricao": "Base de Cálculo - Contribuição ao FTI - importação de insumos industriais de bem final (2% do valor FOB) - cód. tributo 9854", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0032/2014-GSEFAZ", "vigencia_desde": "10/11/2014", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109855", "descricao": "Base de Cálculo - Contribuição ao FTI - sobre faturamento bruto - bem intermediário - diferimento - cód. tributo 9855", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109856", "descricao": "Base de Cálculo - Contribuição ao FTI - aquisição de insumos nacionais - bem final - cód. tributo 9856", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109857", "descricao": "Base de Cálculo - Contribuição ao FTI - projetos agropecuários - cód. tributo 9857", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109858", "descricao": "Base de Cálculo - Contribuição ao FTI - concentrados - cód. tributo 9858", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109859", "descricao": "Base de Cálculo - Contribuição ao FTI - LCD - cód. tributo 9859", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109861", "descricao": "Base de Cálculo - Contribuição ao FTI - faturamento bruto industrial - duas rodas - 0,25% - cód. tributo 9861", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109880", "descricao": "Base de Cálculo - Contribuição ao FMPES - sobre crédito estímulo - cód. tributo 9880", "status": "Acrescentado", "resolucao_alteradora": "Resolução nº 0021/2014-GSEFAZ", "vigencia_desde": "11/08/2014", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM109885", "descricao": "Base de Cálculo - Contribuição ao FMPES - sobre crédito estímulo - cód. tributo 9885", "status": "Revogado", "resolucao_alteradora": "Resolução nº 0021/2014-GSEFAZ", "vigencia_desde": "11/08/2014", "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM282601", "descricao": "Custo das matérias-primas regionais - CMR - Lei Estadual nº 2.826/2003, art. 13, § 6º", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM282602", "descricao": "Custo dos demais componentes - CDC - Lei Estadual nº 2.826/2003, art. 13, § 6º", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM282603", "descricao": "Custo da mão de obra - MO - Lei Estadual nº 2.826/2003, art. 13, § 6º", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM282604", "descricao": "Custo dos componentes locais - CCL - Lei Estadual nº 2.826/2003, art. 13, § 10", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM282605", "descricao": "Custo dos componentes nacionais - CCN - Lei Estadual nº 2.826/2003, art. 13, § 10", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" },
+      { "codigo": "AM282606", "descricao": "Custo dos componentes importados - CCL - Lei Estadual nº 2.826/2003, art. 13, § 10", "status": null, "resolucao_alteradora": null, "vigencia_desde": null, "redacao_original": null, "tipo_ajuste": "Nao_Aplica" }
     ]
   }
 }
